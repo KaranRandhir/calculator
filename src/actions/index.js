@@ -2,9 +2,7 @@
 export const calculation = () => {
     return {
         type:"EVALUATE_STRING"
-
-        
-    }
+}
 }
 
 export const calculate = (num) => {
